@@ -1,3 +1,10 @@
+# @pragmateam/react-tailwindcss-datepicker
+
+This project is a fork from
+[react-tailwindcss-datepicker v1.6.6](https://github.com/onesine/react-tailwindcss-datepicker/releases/tag/v1.6.6).
+
+---
+
 # React Tailwindcss Datepicker
 
 <p align="center">
@@ -8,10 +15,10 @@
 </p>
 
 <div align="center">
-    
+
 [![npm version](https://img.shields.io/npm/v/react-tailwindcss-datepicker?style=flat-square)](https://www.npmjs.com/package/react-tailwindcss-datepicker)
 [![npm downloads](https://img.shields.io/npm/dt/react-tailwindcss-datepicker?style=flat-square)](https://www.npmjs.com/package/react-tailwindcss-datepicker)
-    
+
 </div>
 
 ## Contents
